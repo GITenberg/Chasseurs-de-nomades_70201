@@ -1,0 +1,26 @@
+_repo: Chasseurs-de-nomades_70201
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zavie, Émile
+    gutenberg_agent_id: '55648'
+    url: http://www.gutenberg.org/2009/agents/55648
+description: ''
+gutenberg_issued: '2023-03-04'
+identifiers:
+  gutenberg: '70201'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.152125
+pgterms:marc905: 20230224231504zavie
+pgterms:marc906: '1927'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bA la cité des livres, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chasseurs de nomades
+url: http://www.gutenberg.org/ebooks/70201
