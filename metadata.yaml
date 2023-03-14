@@ -1,11 +1,16 @@
 _repo: Chasseurs-de-nomades_70201
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70201-h/images/cover.jpg
 creator:
   author:
     agent_name: Zavie, Émile
     gutenberg_agent_id: '55648'
     url: http://www.gutenberg.org/2009/agents/55648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70201#Chasseurs-de-nomades
 gutenberg_issued: '2023-03-04'
 identifiers:
   gutenberg: '70201'
